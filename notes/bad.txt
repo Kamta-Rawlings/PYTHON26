@@ -1,0 +1,4 @@
+Non-pythonic way to open a file for writing.
+Don't do it!
+Really.
+I am not kidding.
